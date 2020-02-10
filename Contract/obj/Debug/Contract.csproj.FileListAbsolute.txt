@@ -1,0 +1,14 @@
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\Contract.dll
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\Contract.pdb
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\DataModel.dll
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\Model.dll
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\EntityFramework.dll
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\DataModel.pdb
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\DataModel.dll.config
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\Model.pdb
+E:\Professional\Evolent Assistment\Evolent\Contract\bin\Debug\EntityFramework.xml
+E:\Professional\Evolent Assistment\Evolent\Contract\obj\Debug\Contract.csprojAssemblyReference.cache
+E:\Professional\Evolent Assistment\Evolent\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+E:\Professional\Evolent Assistment\Evolent\Contract\obj\Debug\Contract.csproj.CopyComplete
+E:\Professional\Evolent Assistment\Evolent\Contract\obj\Debug\Contract.dll
+E:\Professional\Evolent Assistment\Evolent\Contract\obj\Debug\Contract.pdb

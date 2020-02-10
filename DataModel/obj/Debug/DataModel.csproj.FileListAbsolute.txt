@@ -1,0 +1,12 @@
+E:\Professional\Evolent Assistment\Evolent\DataModel\bin\Debug\DataModel.dll.config
+E:\Professional\Evolent Assistment\Evolent\DataModel\bin\Debug\DataModel.dll
+E:\Professional\Evolent Assistment\Evolent\DataModel\bin\Debug\DataModel.pdb
+E:\Professional\Evolent Assistment\Evolent\DataModel\bin\Debug\EntityFramework.dll
+E:\Professional\Evolent Assistment\Evolent\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Professional\Evolent Assistment\Evolent\DataModel\bin\Debug\EntityFramework.xml
+E:\Professional\Evolent Assistment\Evolent\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Professional\Evolent Assistment\Evolent\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+E:\Professional\Evolent Assistment\Evolent\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+E:\Professional\Evolent Assistment\Evolent\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+E:\Professional\Evolent Assistment\Evolent\DataModel\obj\Debug\DataModel.dll
+E:\Professional\Evolent Assistment\Evolent\DataModel\obj\Debug\DataModel.pdb

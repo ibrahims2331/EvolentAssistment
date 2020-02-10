@@ -1,0 +1,6 @@
+E:\Professional\Evolent Assistment\Evolent\Model\bin\Debug\Model.dll
+E:\Professional\Evolent Assistment\Evolent\Model\bin\Debug\Model.pdb
+E:\Professional\Evolent Assistment\Evolent\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Professional\Evolent Assistment\Evolent\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Professional\Evolent Assistment\Evolent\Model\obj\Debug\Model.dll
+E:\Professional\Evolent Assistment\Evolent\Model\obj\Debug\Model.pdb
